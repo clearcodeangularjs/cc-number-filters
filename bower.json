@@ -2,7 +2,7 @@
   "name": "number-filters",
   "description": "Number filters for angular - precision filter and 0 number filter",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "basic.js",
