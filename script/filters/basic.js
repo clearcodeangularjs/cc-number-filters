@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.number.filters')
+angular.module('cc.number.filters', [])
     .filter('shownonzero', function () {
         return function (input) {
             if(Number(input) === 0){
