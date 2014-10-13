@@ -4,6 +4,7 @@
   "authors": [
   "ClearCode (http://clearcode.cc)"
 ],
+"homepage": "http://plnkr.co/edit/x6EnysSyDYW3L2DS7XzA",
   "version": "1.0.0",
   "main": "basic.js",
   "ignore": [
