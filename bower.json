@@ -1,12 +1,12 @@
 {
-	"name": "number-filters",
+	"name": "cc-number-filters",
 	"description": "Number filters for angular - precision filter and 0 number filter",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"homepage": "http://plnkr.co/edit/x6EnysSyDYW3L2DS7XzA",
 	"version": "1.0.0",
-	"main": "basic.js",
+	"main": "script/filters/basic.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
@@ -15,7 +15,7 @@
 	],
 	"dependencies": {
 		"angular": "~1.0.6",
-		"adhesiveUtils": "~1.0.0"
+		"cc-misc-service": "clearcodeangularjs/cc-misc-service"
 	},
 	"devDependencies": {
 		"grunt": "^0.4.1",
