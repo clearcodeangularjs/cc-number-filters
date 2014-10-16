@@ -5,7 +5,7 @@ Filters that hides 0, and cut numbers to set precision.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-number-filters --save ```
 
 
 Usage
